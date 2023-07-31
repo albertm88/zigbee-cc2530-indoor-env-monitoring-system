@@ -1,5 +1,7 @@
 # Zigbee-CC2530-indoor-env-monitoring-system （基于Zigbee技术CC2530单片机的室内环境监测系统）
 
+## 如何运行 (How to run)
+Copy to a new zstack project to run.
 ## 描述 (Discriptions)
 One Coordinator and Four EndPoints struct this system whose parts connect with sensors or computer.
 
